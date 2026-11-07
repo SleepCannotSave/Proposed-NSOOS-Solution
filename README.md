@@ -1,1 +1,1 @@
-The included PDF is my proposed high level design for a sediment extraction solution for the Sydney NSOOS.
+The included PDF is my proposed high level design for a sediment extraction solution for the Sydney NSOOS based on client requirements in order to restore waste water flow and renew the 100+ year old infrastructure.
